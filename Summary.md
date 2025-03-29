@@ -18,7 +18,7 @@ Main Key Points from the provided Document are:
 
 -Try to be unique so that your project can stand out in a group of people.
 
-#s MAINTAIN FOCUS
+# MAINTAIN FOCUS
 -Keep group discussions on topic so that the communication develops.
 
 -Attempt to solve problems independently before seeking help from others.
@@ -30,7 +30,7 @@ Main Key Points from the provided Document are:
 
 -Offer resources and alternative solutions.
 
-#s AVOID ASSUMPTIONS
+# AVOID ASSUMPTIONS
 -Don't assume contributors' knowledge, background, or personal attributes.
 
 -Respect diverse perspectives.
